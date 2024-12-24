@@ -1,4 +1,4 @@
-# Fakestore API Fetch with React
+# Fakestore API Fetch with NextJS
 
 this is a simple project that fetches data from the fakestore API and displays it in a simple UI.
 The project was built using **NextJS** using **shadcn** for the components.
