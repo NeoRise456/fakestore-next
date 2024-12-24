@@ -1,4 +1,6 @@
 import {ThemeProvider} from "next-themes";
+import FakestorePage from "@/app/_products/pages/FakestorePage";
+
 
 
 export default function Home() {
@@ -10,9 +12,7 @@ export default function Home() {
           disableTransitionOnChange
       >
           <main>
-              <div>
-                  <h1> monse dxd</h1>
-              </div>
+              <FakestorePage/>
           </main>
 
       </ThemeProvider>
